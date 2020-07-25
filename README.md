@@ -12,8 +12,3 @@ Fata Nugraha - 13517109             : Riwayat Transaksi<br />
 2. Eksplorasi dan setup mesin deployment : 13517109
 3. Unit testing : 13517016
 4. Gitflow : 13517016, 13517019, 13517109
-
-# IP
-
-1. 100.25.108.212
-2. 3.209.51.126
