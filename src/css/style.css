@@ -1,0 +1,23 @@
+#login-form, #rekening-tujuan, #nominal {
+    width: 30%;
+    margin: 0 auto;
+}
+
+label {
+    width: 30%;
+    text-align: left;
+}
+
+#heading {
+    margin-bottom: 2rem;
+}
+
+table#list-transaksi {
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 3rem;  
+}
+
+body {
+    background-color: deepskyblue;
+}
